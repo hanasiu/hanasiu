@@ -2,11 +2,8 @@
 
 
 - 🌱 I’m currently learning
-- 
  • Language: javascript, C++
- 
  • Framework: React, ExpressJs
- 
  • DB: MongoDB
  
               
