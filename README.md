@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning  
- • Language: javascript, C++  
+ • Language: Typecript, C++  
  • Framework: React, ExpressJs  
  • DB: MongoDB  
  
