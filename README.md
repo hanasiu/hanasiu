@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @hanasiu
+- 👋 Hi, I’m @hanasiu  
 
-- 🌱 Interested in
- • Typecript and Javascript for React and Node.js
+- 🌱 Interested in  
+ • Typecript and Javascript for React and Node.js  
  • C++ for Computer Science and Data Structures and Algorithms  
 
-- 🌱 I’m currently learning
- • Language: Typescript, C++
+- 🌱 I’m currently learning  
+ • Language: Typescript, C++  
  • Framework: React, ExpressJs  
  • DB: MongoDB  
  
