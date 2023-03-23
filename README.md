@@ -9,6 +9,7 @@
  • Framework: React, ExpressJs  
  • DB: MongoDB  
  
+- 🌐 mainly develop on WSL Ubuntu and VS Code environment now
               
 - 💞️ Activity  
  • Colt Steele's The Web Developer Bootcamp 2022 on Udemy  
