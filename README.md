@@ -16,6 +16,7 @@
  • Colt Steele's The Web Developer Bootcamp 2022 on Udemy  
  • Colt Steele's The Git & Github Bootcamp on Udemy  
 
+- Temporary Self Promotion:  
 As self taught programmer, I am sure that I would complete the Full Stack open course until 2023.07.01(?!).
 Through this course I solve many errors by myself and learn fullstack web development.
 This course's code is on my github. It would also cover typescript, React Native, CI/CD, Container and Relational Databases.
