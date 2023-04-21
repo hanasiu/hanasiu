@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @hanasiu  
-
 - 🌷 Interested in  
  • Typecript and Javascript for React and Node.js  
  • C++ for Computer Science and Data Structures and Algorithms  
