@@ -15,4 +15,4 @@
  • Colt Steele's The Git & Github Bootcamp on Udemy  
  
 
-- 📫 How to reach me: youryouu@naver.com
+- 📫 How to reach me: youryouu0710@gmail.com
