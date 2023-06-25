@@ -1,6 +1,6 @@
 - 🌷 Interested in  
  • Typecript and Javascript for React and Node.js  
- • C++ for Computer Science and Data Structures and Algorithms  
+ • C++ for Graphics Programming, Computer Science, Data Structures and Algorithms  
 
 - 🌱 I’m currently learning  
  • Language: Typescript, C++  
